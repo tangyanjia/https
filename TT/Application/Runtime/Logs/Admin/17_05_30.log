@@ -1,0 +1,108 @@
+[ 2017-05-30T12:53:37+08:00 ] 127.0.0.1 /index.php/Admin/login
+ERR: 非法操作:index
+
+[ 2017-05-30T16:21:15+08:00 ] 127.0.0.1 /index.php/Admin/Brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_p_p' n'existe pas
+
+[ 2017-05-30T16:24:31+08:00 ] 127.0.0.1 /index.php/Admin/Brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_p_p' n'existe pas
+
+[ 2017-05-30T16:25:07+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_p_p' n'existe pas
+
+[ 2017-05-30T16:25:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_p_p' n'existe pas
+
+[ 2017-05-30T16:25:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_p_p' n'existe pas
+
+[ 2017-05-30T16:25:52+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_p_p' n'existe pas
+
+[ 2017-05-30T16:25:54+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_p_p' n'existe pas
+
+[ 2017-05-30T16:26:44+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:26:45+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:26:46+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:06+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:06+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:07+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:07+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:07+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:07+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:28:08+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:29:20+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:29:21+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:29:22+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:29:22+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T16:29:28+08:00 ] 127.0.0.1 /index.php/Admin/brand/showlist.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'tp_brand.tp_pinpai' n'existe pas
+
+[ 2017-05-30T23:49:55+08:00 ] 127.0.0.1 /index.php/Admin/Goosd/goods_list.html
+ERR: 无法加载控制器:Goosd
+
+[ 2017-05-30T23:55:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goodslist.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-05-30T23:56:07+08:00 ] 127.0.0.1 /index.php/Admin/goods/goodslist
+ERR: 无法加载控制器:Goods
+
+[ 2017-05-30T23:56:58+08:00 ] 127.0.0.1 /index.php/Admin/goods/goodslist.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-05-30T23:58:40+08:00 ] 127.0.0.1 /index.php/Admin/goods/goodslist.html
+ERR: 无法加载控制器:Goods
+
+[ 2017-05-30T23:58:44+08:00 ] 127.0.0.1 /index.php/Admin/goods/goodslist
+ERR: 无法加载控制器:Goods
+
+[ 2017-05-30T23:59:00+08:00 ] 127.0.0.1 /index.php/Admin/goods/good
+ERR: 无法加载控制器:Goods
+
+[ 2017-05-30T23:59:08+08:00 ] 127.0.0.1 /index.php/Admin/goods/goods
+ERR: 无法加载控制器:Goods
+

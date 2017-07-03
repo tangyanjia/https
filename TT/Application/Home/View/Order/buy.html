@@ -1,0 +1,158 @@
+
+
+        <div class="block box">
+            <div class="blank"></div>
+            <div id="ur_here">
+                当前位置: <a href="#">首页</a> <code>&gt;</code> 购物流程 
+            </div>
+        </div>
+
+        <div class="blank"></div>
+        <div class="blank"></div>
+
+        <div class="block">
+            <form action="{:U('order/add')}" method="post" name="theForm" id="theForm" >
+                <input type="hidden" name="buy_datas" value='{$buy_datas}' >
+                <div class="flowBox">
+                    <h6><span>商品列表</span><a href="#" class="f6">修改</a></h6>
+                    <table cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th>商品名称</th>
+                                <th>属性</th>
+                                <th>市场价</th>
+                                <th>本店价</th>
+                                <th>购买数量</th>
+                                <th>小计</th>
+                            </tr>
+        <foreach name="order_datas" item="d">
+        <input type="hidden" name="buy_datas" value='{$buy_datas}' >
+                <input type="hidden" name="total" value='{$total}' >
+                            <tr>
+                                <td>
+                                    <a href="#" target="_blank" class="f6">{$d.goods_name}</a>
+                                </td>
+
+                                <td>
+                                <foreach name="d[goods_attr]" key='k' item='dd'>
+                                {$k}:{$dd} <br />
+                                </foreach>
+                                </td>
+                                <td align="right">￥{$d.goods_mprice}元</td>
+                                <td align="right">￥{$d.goods_price}元</td>
+                                <td align="right">{$d.number}</td>
+                                <td align="right">￥{$d.subtotal}元</td>
+                            </tr>
+</foreach>
+                           
+                            <tr>
+                                <td colspan="7">
+                                    购物金额小计 ￥{$total}元              </td>
+                            </tr>
+                        </tbody></table>
+                </div>
+                <div class="blank"></div>
+                <div class="flowBox">
+                    <h6><span>收货人信息</span></h6>
+                    <table cellpadding="5" cellspacing="1" width="99%">
+                        <tbody>
+                        <tr>
+                            <td>选择收件人</td>
+                            <td>收件人名称</td>
+                            <td>收件人地址</td>
+                            <td>收件人联系方式</td>
+                        </tr>
+						<foreach name="lo_datas" item="d">
+						<tr>
+                                <td><input <if condition="$d[lo_default] eq 1"> checked </if> type="radio" value="{$d.id}" name="location_id"></td>
+                                <td>{$d.lo_name}</td> 
+                                 <td>{$d.lo_address}</td>
+                                  <td>{$d.lo_tel}</td>
+                            </tr>
+                            </foreach>
+							
+                            
+                           
+                        </tbody></table>
+                </div>
+              <div class="blank"></div>
+                <div class="flowBox">
+                    <h6><span>配送方式</span></h6>
+                    <table id="shippingTable" cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th width="5%">&nbsp;</th>
+                                <th width="25%">名称</th>
+                                <th>订购描述</th>
+                                <th width="15%">费用</th>
+                                <th width="15%">免费额度</th>
+                                <th width="15%">保价费用</th>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input checked name="order_exp" value="1"  type="radio" />
+                                </td>
+                                <td valign="top"><strong>申通快递</strong></td>
+                                <td valign="top">江、浙、沪地区首重为15元/KG，其他地区18元/KG， 续重均为5-6元/KG， 云南地区为8元</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                                <td align="right" valign="top">不支持保价</td>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="order_exp" value="2"  type="radio" />
+                                </td>
+                                <td valign="top"><strong>圆通快递</strong></td>
+                                <td valign="top">配送的运费是固定的</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                                <td align="right" valign="top">不支持保价</td>
+                            </tr>
+                            
+                        </tbody></table>
+                </div> 
+                <div class="blank"></div>
+                <div class="flowBox">
+                    <h6><span>支付方式</span></h6>
+                    <table id="paymentTable" cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th width="5%">&nbsp;</th>
+                                <th width="20%">名称</th>
+                                <th>订购描述</th>
+                                <th width="15%">手续费</th>
+                            </tr>
+
+                            <tr>
+                                <td valign="top"><input name="order_pay" value="1" iscod="0" type="radio" /></td>
+                                <td valign="top"><strong>余额支付</strong></td>
+                                <td valign="top">使用帐户余额支付。只有会员才能使用，通过设置信用额度，可以透支。</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                            </tr>
+							 <tr>
+                                <td valign="top"><input checked name="order_pay" value="2" iscod="0" type="radio" /></td>
+                                <td valign="top"><strong>支付宝支付</strong></td>
+                                <td valign="top">在线支付</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                            </tr>
+
+                         
+                           
+                        </tbody></table>
+                </div>
+                <div class="blank"></div>
+               
+                <div class="blank"></div>
+                <div class="flowBox">
+                    <h6><span>费用总计</span></h6>
+                    <div id="ECS_ORDERTOTAL">
+                        <table cellpadding="5" cellspacing="1" width="99%">
+                            <tbody>
+                                
+                                <tr>
+                                    <td align="right"> 应付款金额: <font class="f4_b">￥{$total}元</font>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                    </div>           <div style="margin: 8px auto;">
+                        <input src="__HOME__images/bnt_subOrder.gif" value="提价订单" type="submit" />
+                        
+                    </div>
+                </div>
+            </form>
+        </div>

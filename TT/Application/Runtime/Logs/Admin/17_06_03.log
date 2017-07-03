@@ -1,0 +1,881 @@
+[ 2017-06-03T10:29:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002303s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0013s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 30 [ RunTime:0.0682s ]
+
+[ 2017-06-03T10:29:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002304s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 30 [ RunTime:0.0834s ]
+
+[ 2017-06-03T10:33:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002757s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: set D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de 'WHERE `id` = 30' à la ligne 1
+
+[ 2017-06-03T10:34:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002514s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: set D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de 'WHERE `id` = 30' à la ligne 1
+
+[ 2017-06-03T10:34:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002608s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: set D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de 'WHERE `id` = 29' à la ligne 1
+
+[ 2017-06-03T10:34:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002429s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: set D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de 'WHERE `id` = 30' à la ligne 1
+
+[ 2017-06-03T10:34:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003054s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0183s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [8] Undefined variable: set D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\w3c\TP\ThinkPHP\Library\Think\Db\Driver.class.php 第 376 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de 'WHERE `id` = 30' à la ligne 1
+
+[ 2017-06-03T10:36:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002240s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0169s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0012s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 30 [ RunTime:0.0910s ]
+
+[ 2017-06-03T10:36:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002238s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0177s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0012s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 30 [ RunTime:0.1221s ]
+
+[ 2017-06-03T10:36:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003118s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 30 [ RunTime:0.0953s ]
+
+[ 2017-06-03T10:36:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002521s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0012s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 30 [ RunTime:0.0850s ]
+
+[ 2017-06-03T10:36:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002404s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 30 [ RunTime:0.1103s ]
+
+[ 2017-06-03T10:36:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002246s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 30 [ RunTime:0.0887s ]
+
+[ 2017-06-03T10:36:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002594s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 29 [ RunTime:0.1111s ]
+
+[ 2017-06-03T10:36:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002408s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 29 [ RunTime:0.0905s ]
+
+[ 2017-06-03T10:36:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002271s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0012s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 29 [ RunTime:0.0858s ]
+
+[ 2017-06-03T10:36:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002242s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0012s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 29 [ RunTime:0.0902s ]
+
+[ 2017-06-03T10:38:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002827s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0013s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 29 [ RunTime:0.0802s ]
+
+[ 2017-06-03T10:38:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 29 [ RunTime:0.0866s ]
+
+[ 2017-06-03T10:39:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002834s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 29 [ RunTime:0.1587s ]
+
+[ 2017-06-03T10:39:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002806s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0165s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 28 [ RunTime:0.0843s ]
+
+[ 2017-06-03T10:39:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002248s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 28 [ RunTime:0.1470s ]
+
+[ 2017-06-03T10:39:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002461s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0163s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 28 [ RunTime:0.0814s ]
+
+[ 2017-06-03T10:39:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002444s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 28 [ RunTime:0.0895s ]
+
+[ 2017-06-03T10:39:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002477s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0017s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 28 [ RunTime:0.0830s ]
+
+[ 2017-06-03T10:40:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002831s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 30 [ RunTime:0.0907s ]
+
+[ 2017-06-03T11:36:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/30.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de ')' à la ligne 1
+
+[ 2017-06-03T11:56:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/30.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de ')' à la ligne 1
+
+[ 2017-06-03T11:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/30.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ '0' pour la clef 'PRIMARY'
+
+[ 2017-06-03T12:03:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/29.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ '0' pour la clef 'PRIMARY'
+
+[ 2017-06-03T19:50:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_add.html
+ERR: 不存在的图像文件
+
+[ 2017-06-03T19:50:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002448s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T19:50:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002077s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T19:59:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002407s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T19:59:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002049s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T19:59:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002043s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T19:59:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002180s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T20:00:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_add.html
+ERR: 不存在的图像文件
+
+[ 2017-06-03T20:00:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002881s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T20:00:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002790s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T20:10:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002628s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T20:10:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003140s ]
+ERR: 非法操作:del
+
+[ 2017-06-03T20:11:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002916s ]
+
+[ 2017-06-03T20:12:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003347s ]
+
+[ 2017-06-03T20:12:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002171s ]
+
+[ 2017-06-03T20:14:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003170s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0173s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-03T20:14:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002901s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-03T20:16:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002765s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-03T20:16:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002943s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-03T20:16:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002178s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0194s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-03T20:16:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002212s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 32 LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2017-06-03T20:16:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002515s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 31 LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-03T20:16:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002768s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0209s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 31 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-03T20:21:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002898s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002222s ]
+
+[ 2017-06-03T20:21:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003029s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002204s ]
+
+[ 2017-06-03T20:21:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002804s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002205s ]
+
+[ 2017-06-03T20:21:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002885s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002297s ]
+
+[ 2017-06-03T20:21:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002774s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002201s ]
+
+[ 2017-06-03T20:21:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002811s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0202s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002508s ]
+
+[ 2017-06-03T20:21:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003005s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002460s ]
+
+[ 2017-06-03T20:21:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002966s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: gooods_status D:\w3c\TP\Application\Admin\Controller\GoodsController.class.php 第 122 行.
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002215s ]
+
+[ 2017-06-03T20:21:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002997s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002237s ]
+
+[ 2017-06-03T20:21:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002736s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001950s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002225s ]
+
+[ 2017-06-03T20:21:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003032s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0837s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002325s ]
+
+[ 2017-06-03T20:21:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002882s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.1491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002246s ]
+
+[ 2017-06-03T20:21:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002791s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002253s ]
+
+[ 2017-06-03T20:21:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002803s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002255s ]
+
+[ 2017-06-03T20:21:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002938s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002259s ]
+
+[ 2017-06-03T20:21:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002813s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0149s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002253s ]
+
+[ 2017-06-03T20:21:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002908s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002267s ]
+
+[ 2017-06-03T20:24:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002528s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0218s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0907s ]
+
+[ 2017-06-03T20:24:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002257s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0768s ]
+
+[ 2017-06-03T20:24:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002464s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0840s ]
+
+[ 2017-06-03T20:27:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002853s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0871s ]
+
+[ 2017-06-03T20:27:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003168s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0465s ]
+
+[ 2017-06-03T20:27:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002522s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0991s ]
+
+[ 2017-06-03T20:36:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002869s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0665s ]
+
+[ 2017-06-03T20:36:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003043s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 33 [ RunTime:0.0534s ]
+
+[ 2017-06-03T20:36:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002828s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0202s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 33 [ RunTime:0.0844s ]
+
+[ 2017-06-03T20:37:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002460s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0470s ]
+
+[ 2017-06-03T20:37:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 33 [ RunTime:0.1011s ]
+
+[ 2017-06-03T20:39:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002423s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0859s ]
+
+[ 2017-06-03T20:39:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002112s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0906s ]
+
+[ 2017-06-03T20:39:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002055s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0831s ]
+
+[ 2017-06-03T20:39:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002030s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0202s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 33 [ RunTime:0.0865s ]
+
+[ 2017-06-03T20:39:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002064s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 33 [ RunTime:0.1769s ]
+
+[ 2017-06-03T20:39:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002033s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 31 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 31 [ RunTime:0.0521s ]
+
+[ 2017-06-03T20:39:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002041s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 31 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 31 [ RunTime:0.1022s ]
+
+[ 2017-06-03T20:47:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/34.html
+ERR: Think\Controller:assgin方法不存在！
+
+[ 2017-06-03T21:25:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/34.html
+ERR: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 2
+
+[ 2017-06-03T21:27:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/33.html
+ERR: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 2
+
+[ 2017-06-03T21:29:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/33.html
+ERR: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 2
+
+[ 2017-06-03T21:29:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/pic/id/34.html
+ERR: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 2
+
+[ 2017-06-03T21:54:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002878s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0191s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 7 [ RunTime:0.0830s ]
+
+[ 2017-06-03T21:54:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003156s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 10 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 10 [ RunTime:0.0901s ]
+
+[ 2017-06-03T21:55:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002903s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.1055s ]
+
+[ 2017-06-03T21:55:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002492s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002072s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002105s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002179s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002096s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002077s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002117s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002066s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:55:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002069s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 11 [ RunTime:0.0005s ]
+
+[ 2017-06-03T21:56:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002187s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 8 [ RunTime:0.0865s ]
+
+[ 2017-06-03T21:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/delPic
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002588s ]
+SQL: SHOW COLUMNS FROM `tp_pic` [ RunTime:0.0199s ]
+SQL: SELECT * FROM `tp_pic` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `tp_pic` WHERE `id` = 9 [ RunTime:0.0873s ]
+
+[ 2017-06-03T22:06:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0886s ]
+
+[ 2017-06-03T22:08:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003051s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0814s ]
+
+[ 2017-06-03T22:08:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002889s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0904s ]
+
+[ 2017-06-03T22:08:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002834s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.1256s ]
+
+[ 2017-06-03T22:08:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002820s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='0' WHERE `id` = 34 [ RunTime:0.0537s ]
+
+[ 2017-06-03T22:08:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003228s ]
+SQL: SHOW COLUMNS FROM `tp_goods` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `tp_goods` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_goods` SET `goods_status`='1' WHERE `id` = 34 [ RunTime:0.0908s ]
+

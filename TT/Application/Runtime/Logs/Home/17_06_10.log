@@ -1,0 +1,712 @@
+[ 2017-06-10T00:12:08+08:00 ] 127.0.0.1 /index.php/Home/Cart/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001588s ]
+
+[ 2017-06-10T00:12:37+08:00 ] 127.0.0.1 /index.php/Home/Cart/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002784s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0157s ]
+SQL: DELETE FROM `tp_cart` WHERE `goods_id` = 37 AND `user_id` = 1 [ RunTime:0.1154s ]
+
+[ 2017-06-10T08:18:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003738s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002828s ]
+
+[ 2017-06-10T08:18:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004071s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003485s ]
+
+[ 2017-06-10T08:18:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003539s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004899s ]
+
+[ 2017-06-10T08:18:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003691s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002783s ]
+
+[ 2017-06-10T08:18:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003394s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003463s ]
+
+[ 2017-06-10T08:18:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004242s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002775s ]
+
+[ 2017-06-10T08:18:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003324s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002898s ]
+
+[ 2017-06-10T08:18:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003366s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002995s ]
+
+[ 2017-06-10T08:20:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003185s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002186s ]
+
+[ 2017-06-10T08:20:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002573s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001812s ]
+
+[ 2017-06-10T08:20:48+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002523s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001820s ]
+
+[ 2017-06-10T08:20:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002680s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001797s ]
+
+[ 2017-06-10T08:21:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002497s ]
+
+[ 2017-06-10T08:21:50+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003335s ]
+
+[ 2017-06-10T08:21:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001686s ]
+
+[ 2017-06-10T08:21:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002758s ]
+
+[ 2017-06-10T08:21:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002925s ]
+
+[ 2017-06-10T08:21:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001651s ]
+
+[ 2017-06-10T08:21:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003562s ]
+
+[ 2017-06-10T08:21:52+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001603s ]
+
+[ 2017-06-10T08:28:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003231s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003035s ]
+
+[ 2017-06-10T08:28:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003265s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002946s ]
+
+[ 2017-06-10T08:29:13+08:00 ] 127.0.0.1 /index.php/Home/Cart/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003572s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0167s ]
+SQL: DELETE FROM `tp_cart` WHERE `goods_id` = 45 AND `user_id` = 5 [ RunTime:0.0722s ]
+
+[ 2017-06-10T08:43:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002721s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002194s ]
+
+[ 2017-06-10T08:43:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002239s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2017-06-10T08:44:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002609s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001981s ]
+
+[ 2017-06-10T08:44:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003277s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002508s ]
+
+[ 2017-06-10T08:44:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002409s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001627s ]
+
+[ 2017-06-10T08:44:49+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002849s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002151s ]
+
+[ 2017-06-10T08:44:51+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002574s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001670s ]
+
+[ 2017-06-10T19:01:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003026s ]
+
+[ 2017-06-10T19:01:18+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002490s ]
+
+[ 2017-06-10T19:01:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002469s ]
+
+[ 2017-06-10T19:01:19+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002680s ]
+
+[ 2017-06-10T19:01:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002635s ]
+
+[ 2017-06-10T19:10:59+08:00 ] 127.0.0.1 /index.php/Home/Cart/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002217s ]
+
+[ 2017-06-10T19:11:20+08:00 ] 127.0.0.1 /index.php/Home/Cart/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003118s ]
+
+[ 2017-06-10T19:15:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001604s ]
+
+[ 2017-06-10T19:15:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002666s ]
+
+[ 2017-06-10T19:15:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001551s ]
+
+[ 2017-06-10T19:15:40+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001748s ]
+
+[ 2017-06-10T19:15:40+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001637s ]
+
+[ 2017-06-10T19:15:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001618s ]
+
+[ 2017-06-10T19:15:54+08:00 ] 127.0.0.1 /index.php/Home/Cart/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002398s ]
+
+[ 2017-06-10T19:15:57+08:00 ] 127.0.0.1 /index.php/Home/Cart/del
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002222s ]
+
+[ 2017-06-10T19:34:39+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003009s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001919s ]
+
+[ 2017-06-10T19:34:40+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002189s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002124s ]
+
+[ 2017-06-10T19:34:41+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002189s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001926s ]
+
+[ 2017-06-10T19:34:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002254s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002244s ]
+
+[ 2017-06-10T19:34:42+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003090s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002132s ]
+
+[ 2017-06-10T19:34:46+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002040s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002019s ]
+
+[ 2017-06-10T19:34:47+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002094s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002210s ]
+
+[ 2017-06-10T19:37:22+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002527s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0084s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:37:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002269s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0124s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:37:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002121s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0123s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:37:23+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002411s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0127s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:37:24+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002136s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0079s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:37:25+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002195s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0133s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:39:55+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002633s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0124s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:39:56+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002248s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0129s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002796s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0139s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:00+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002798s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0135s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002101s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0124s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002493s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0134s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:01+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002269s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0131s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002108s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0122s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002079s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0129s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:03+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002178s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0127s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002250s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0095s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002051s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0131s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T19:42:04+08:00 ] 127.0.0.1 /index.php/Home/Cart/edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002075s ]
+SQL: SHOW COLUMNS FROM `tp_cart` [ RunTime:0.0132s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de '} and user_id=5 )' à la ligne 1
+
+[ 2017-06-10T20:08:10+08:00 ] 127.0.0.1 /index.php/Home/Goods/detail
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de ')' à la ligne 1
+
+[ 2017-06-10T20:09:06+08:00 ] 127.0.0.1 /index.php/Home/Goods/detail
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de ')' à la ligne 1
+
+[ 2017-06-10T20:27:39+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002429s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0234s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-10T20:28:53+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002355s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0236s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'lee' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-10T20:29:01+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002080s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0225s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-10T20:40:35+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002649s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0241s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-10T20:40:35+08:00 ] 127.0.0.1 /index.php/Home/order/buy.html
+ERR: 无法加载控制器:Order
+
+[ 2017-06-10T20:42:44+08:00 ] 127.0.0.1 /index.php/Home/order/buy.html
+ERR: 模板不存在:./Application/Home/View/Order/buy.html
+
+[ 2017-06-10T20:45:00+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002059s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0225s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '4ff9fc6e4e5d5f590c4f2134a8cc96d1' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-10T20:52:17+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002452s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0227s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-10T20:55:19+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002040s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'lee' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-10T20:55:25+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002067s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0186s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-10T21:31:24+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002587s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-10T21:36:17+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002565s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0169s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2017-06-10T21:37:23+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002051s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-10T21:43:15+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002483s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-10T21:45:14+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002242s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-10T21:46:40+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002216s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-06-10T22:09:03+08:00 ] 127.0.0.1 /index.php/Home/order/add.html
+ERR: 非法操作:add
+
+[ 2017-06-10T22:18:38+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003210s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-10T22:50:36+08:00 ] 127.0.0.1 /index.php/Home/login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002216s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `tp_user` WHERE `user_name` = 'jack' AND `user_pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-06-10T23:09:51+08:00 ] 127.0.0.1 /index.php/Home/order/orderinfo/oid/2.html
+ERR: 模板不存在:./Application/Home/View/Order/orderinfo.html
+
+[ 2017-06-10T23:10:23+08:00 ] 127.0.0.1 /index.php/Home/order/pay.html
+ERR: 非法操作:pay
+

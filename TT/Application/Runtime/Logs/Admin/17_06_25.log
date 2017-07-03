@@ -1,0 +1,14 @@
+[ 2017-06-25T22:24:21+08:00 ] 127.0.0.1 /TT//index.php/Admin/attribute/getArr.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002725s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.0782s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( cate_id=1 )  [ RunTime:0.0009s ]
+
+[ 2017-06-25T22:30:24+08:00 ] 127.0.0.1 /TT//index.php/Admin/attribute/getArr.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002955s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( cate_id=2 )  [ RunTime:0.0009s ]
+
